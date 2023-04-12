@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Deep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/akds-singh/akds-singh/blob/main/icegif-421.gif" />
+<img align="right" alt="coding" width="400" src="https://github.com/akds-singh/akds-singh/blob/main/icegif-421.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akds-singh&label=Profile%20views&color=0e75b6&style=flat" alt="akds-singh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akdssingh" target="blank"><img src="https://img.shields.io/twitter/follow/akdssingh?logo=twitter&style=for-the-badge" alt="akdssingh" /></a> </p>
