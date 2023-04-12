@@ -1,3 +1,4 @@
+![logo](https://github.com/akds-singh/akds-singh/blob/main/Let's%20code%20and%20create%20with%20us.png)
 <h1 align="center">Hi 👋, I'm Akash Deep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/akds-singh/akds-singh/blob/main/icegif-421.gif">
